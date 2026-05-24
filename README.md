@@ -8,6 +8,9 @@
 <br/><br/>
 
 # 🛰️ Urbanization Monitoring
+
+<img src="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/raw/main/image1_3.jpg" alt="Kurunegala Urbanization" width="100%"/>
+
 ## Kurunegala District, Sri Lanka
 
 > **A satellite-powered study of a decade of urban growth** — processing Landsat imagery into actionable spatial intelligence for sustainable planning.
