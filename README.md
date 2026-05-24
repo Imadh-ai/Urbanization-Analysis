@@ -9,7 +9,7 @@
 
 # 🛰️ Urbanization Monitoring
 
-<img src="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/raw/main/image1_3.jpg" alt="Kurunegala Urbanization" width="100%"/>
+<img src="https://github.com/Imadh-ai/Urbanization-Analysis/raw/main/image1_3.jpg" alt="Kurunegala Urbanization" width="60%"/>
 
 ## Kurunegala District, Sri Lanka
 
