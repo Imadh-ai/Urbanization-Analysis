@@ -393,32 +393,6 @@ ARIMA showed the best performance for short-term forecasting on this dataset. Pr
 
 ## 🛠️ Installation
 
-### Requirements
-
-```bash
-pip install rasterio geopandas pandas numpy matplotlib scipy scikit-learn prophet statsmodels plotly tqdm
-```
-
-### Quick Start
-
-```bash
-# 1. Clone repository
-git clone https://github.com/your-username/urbanization-kurunegala.git
-cd urbanization-kurunegala
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Download Landsat scenes from USGS EarthExplorer
-#    Arrange into Rearrangedats/YYYY/YYYYMMDD/ folders
-
-# 4. Run pipeline in order
-python 01_aoi_creation.py          # Extract district boundary
-python 02_urbanization_processing.py  # Process Landsat → urban maps
-python 03_prediction_models.py     # Train forecasting models
-python 04_potential_growth.py      # Generate growth zone maps
-```
-
 ### Key Configuration (edit at top of each script)
 
 ```python
